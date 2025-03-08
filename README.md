@@ -20,10 +20,10 @@ Pick your preference and fill them out with your own notes... **complete both, a
   ```
 Simply, drag and drop into your Obsidian Vault folder and customize it however you like.
 
-💡 Tip (from Schlop): If you don’t want the 1600+ templates cluttering your workspace, you can exclude a folder in Obsidian:
+💡 **Tip (from [Schlop](https://github.com/schlopshow)):** If you don’t want the 1600+ files cluttering your workspace, you can **exclude a folder in Obsidian**:  
 
-- Settings → Files & Links → Excluded files & folders
-- Add your template folder there to keep things clean.
+- **Settings → Files & Links → Excluded files & folders**  
+- Add the folder where you store these files to keep your vault organized.
 
 ## 📡 Ways to connect with me and more information on my work:
 - 🌍 My website https://alupului.com/
