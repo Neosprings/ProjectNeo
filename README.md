@@ -20,7 +20,12 @@ Pick your preference and fill them out with your own notes... **complete both, a
   ```
 Simply, drag and drop into your Obsidian Vault folder and customize it however you like.
 
-## Ways to connect with me and more information on my work
-- My website https://alupului.com/
-- You can find me on Twitter @chrisalupului
-- You can find me on Instagram @chrisalupului
+💡 Tip (from Schlop): If you don’t want the 1600+ templates cluttering your workspace, you can exclude a folder in Obsidian:
+
+- Settings → Files & Links → Excluded files & folders
+- Add your template folder there to keep things clean.
+
+## 📡 Ways to connect with me and more information on my work:
+- 🌍 My website https://alupului.com/
+- 🐦 You can find me on Twitter @chrisalupului
+- 📷 You can find me on Instagram @chrisalupului
